@@ -200,8 +200,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- [Your Name] - Initial work and maintenance
+- Ahmed Abdi Hassan - Initial work and maintenance
 
 ## 📧 Support
 
-For support, email [your-email@example.com] or create an issue in the repository.
+For support, email axmedinhowalal4@gmail.com or create an issue in the repository.
